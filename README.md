@@ -56,20 +56,17 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=dracula"
+  media="(prefers-color-scheme: dracula)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true" />
 </picture>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
-
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 

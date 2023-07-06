@@ -5,10 +5,8 @@ You can click the Preview link to take a look at your changes.
 ## Olá, me chamo Bruno de Souza Farias ! 
 ### Bem vindo ao meu perfil GitHub :)
 
-- 🔭 Atualmente estou trabalhando em : Procurando uma Oportunidade
+- 🔭 Atualmente estou : Procurando uma Oportunidade de Desenvolvedor Full-Stack
 - 🌱 Atualmente estou aprendendo ... Trybe/Faculdade - Full Stack - Front End - Back End - Ciências da Computação
-- 👯 Estou procurando colaborar em ... 
-- 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ... oque quiser :)
 - 📫 Como entrar em contato comigo: Nos links Abaixo
 - ⚡ Curiosidade: ... Amo jogos, gravar videos na Twitch e compilar ROM  :)

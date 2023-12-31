@@ -28,12 +28,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=chartreuse-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true" />
 </picture>

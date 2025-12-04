@@ -1,50 +1,88 @@
-<!---
-BrunoSouzaFarias/BrunoSouzaFarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Olá, me chamo Bruno de Souza Farias ! 
-### Bem vindo ao meu perfil GitHub :)
+![banner](https://github.com/user-attachments/assets/b464b790-76eb-4b25-9a05-69a37522dea7)<!-- Banner -->
 
-- 🔭 Atualmente estou : Procurando uma Oportunidade de Desenvolvedor Full-Stack
-- 🌱 Atualmente estou aprendendo ... Trybe/Faculdade - Full Stack - Front End - Back End - Ciências da Computação
-- 💬 Pergunte-me sobre ... oque quiser :)
-- 📫 Como entrar em contato comigo: Nos links Abaixo
-- ⚡ Curiosidade: ... Amo jogos, gravar videos na Twitch e compilar ROM  :)
--->
+ # 👋 Olá, eu sou o **Bruno de Souza Farias**
 
+### 💻 Desenvolvedor Full Stack • 🤖 Automação (RPA) • 🔐 Cibersegurança • 🟢 Health Tech
 
+Sou apaixonado por criar soluções inteligentes que automatizam rotinas, melhoram processos e tornam o dia a dia mais eficiente — principalmente na área da saúde.
 
-### Contatos:
+---
 
-<div align="center">
-<a href="https://www.instagram.com/brusf13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/dgkkcs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:brunodesouzafarias@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruno-souza-farias" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+# 🚀 Sobre mim
+- Supervisor de Operações N1 — Liberty TI Health Tech  
+- Desenvolvedor Full Stack (React, Vue, Node, Java, Python)  
+- Experiência com integrações, APIs, RPA, automação e dashboards  
+- Foco atual: **prontuário eletrônico**, **sistemas de escalas**, **NPS** e **integrações health tech**  
+- Estudando: **Java**, **Arquitetura de Sistemas**, **Inglês para tecnologia**  
 
+---
 
-<!-- GITHUB STATUS -->
-<div align="center">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=chartreuse-dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true" />
-</picture>
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-  <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoSouzaFarias&layout=compact&langs_count=8&card_width=320" />
-</a>
-   ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSouzaFarias&layout=compact&theme=tokyonight)
+# 🛠️ Tecnologias e Ferramentas
 
-  </div>
-</div>
-</div>
+### **Linguagens e Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,html,css,tailwind" />
+</p>
 
+### **Bancos de Dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+</p>
+
+### **Ferramentas / DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp" />
+</p>
+
+---
+
+# 📂 Projetos em Destaque
+
+### 🔥 Sistema Inteligente de Escalas (React + Node)
+- Validações automáticas  
+- Permissões por cargo  
+- LocalStorage + API  
+- Tema moderno e responsivo  
+
+---
+
+### 🤖 RPA com Robot Framework
+- Login automático  
+- Coleta de dados  
+- Exportação para Excel/CSV  
+- Execução com agendamento  
+
+---
+
+### 🏥 Sistema de Cadastro Hospitalar (React + CSV + Google Drive)
+- Upload de Excel  
+- Processamento automático  
+- Integração com robô Python  
+- Workflow inteligente para unidades  
+
+---
+
+# 📊 Estatísticas do GitHub
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSouzaFarias&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Farias-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruno-souza-farias)  
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github)](https://brunosouzafarias.github.io)
+
+---
+
+# ✨ Curiosidades
+- 🎮 Amo games, lives e testes de tecnologia  
+- 🧩 Sempre criando pequenos projetos para aprender algo novo  
+- 🏗 Construindo meu próprio **prontuário eletrônico (EHR)**  
+- 💡 Interesse grande em sistemas de automação e health tech  
+
+---
+
+# 🤝 Vamos colaborar?
+Se quiser trocar ideias, iniciar um projeto ou colaborar, só chamar!  

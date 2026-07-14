@@ -111,10 +111,17 @@ formação: Cibersegurança
 
 ---
 
-## 🏆 Troféus GitHub
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrunoSouzaFarias&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+
+![Repos](https://img.shields.io/badge/Repositórios-45-6C63FF?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Seguidores-17-6C63FF?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars_Recebidas-3-6C63FF?style=for-the-badge&logo=github)
+![Commits](https://img.shields.io/badge/+4_anos_codando-desde_2022-6C63FF?style=for-the-badge&logo=git)
+![Health Tech](https://img.shields.io/badge/Health_Tech-Liberty_TI-00C853?style=for-the-badge&logo=medical&logoColor=white)
+![Ciber](https://img.shields.io/badge/Formação-Cibersegurança-FF5252?style=for-the-badge&logo=hackaday&logoColor=white)
+
 </div>
 
 ---

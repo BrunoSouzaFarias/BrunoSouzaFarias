@@ -24,13 +24,13 @@ localização: São Paulo, SP
 formação: Cibersegurança
 ```
 
-> Desenvolvedor Full Stack apaixonado por criar soluções que **automatizam rotinas**, **otimizam processos** e **impactam a saúde** de forma positiva. Com experiência sólida em **Health Tech**, construo sistemas que vão desde **prontuários eletrônicos** até **RPAs inteligentes** que eliminam trabalho manual repetitivo.
+> Supervisor de TI e desenvolvedor full stack, unindo gestão de operações e engenharia de software para resolver problemas reais de **Health Tech**. Lidero equipe e processos de suporte N1 na Liberty TI e, em paralelo, construo sistemas que vão de **prontuários eletrônicos** a **RPAs** que eliminam trabalho manual repetitivo, sempre com foco em automação, dados e impacto operacional mensurável.
 
 ### 🎯 Foco Atual
 - 🏥 Prontuário Eletrônico (EHR) — arquitetura e desenvolvimento
-- 📊 Sistemas de Escalas inteligentes com validações automáticas
+- 📊 Sistemas de escalas inteligentes com validações automáticas
 - 🤖 Automação de processos hospitalares com RPA
-- 📈 Dashboards e NPS para acompanhamento operacional
+- 📈 Dashboards e indicadores (NPS, SLA) para acompanhamento operacional
 - 📚 Estudando **Java avançado**, **Arquitetura de Sistemas** e **Inglês técnico**
 
 ---
@@ -90,7 +90,7 @@ formação: Cibersegurança
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Atividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoSouzaFarias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" />
@@ -101,12 +101,23 @@ formação: Cibersegurança
   <img height="180em" src="https://streak-stats.demolab.com?user=BrunoSouzaFarias&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
----
+<!--
+  Os dois cards acima usam meu próprio fork do github-readme-stats hospedado no Vercel
+  (github-readme-stats-sigma-five). Ele só renderiza corretamente com a env var PAT_1
+  (um GitHub Personal Access Token com escopo read:user) configurada no projeto Vercel,
+  evitando depender da instância pública compartilhada, que sofre com limite de taxa.
+-->
 
-## 📈 Contribuições
+A animação abaixo (Snake) é gerada por uma GitHub Action no meu próprio repositório e mostra meu histórico de contribuições de forma visual, sem depender de serviços externos de terceiros.
+
+## 🐍 Contribuições (Snake)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoSouzaFarias&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoSouzaFarias/BrunoSouzaFarias/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoSouzaFarias/BrunoSouzaFarias/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/BrunoSouzaFarias/BrunoSouzaFarias/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -122,18 +133,6 @@ formação: Cibersegurança
 ![Health Tech](https://img.shields.io/badge/Health_Tech-Liberty_TI-00C853?style=for-the-badge&logo=medical&logoColor=white)
 ![Ciber](https://img.shields.io/badge/Formação-Cibersegurança-FF5252?style=for-the-badge&logo=hackaday&logoColor=white)
 
-</div>
-
----
-
-## 🐍 Contribuições Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoSouzaFarias/BrunoSouzaFarias/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoSouzaFarias/BrunoSouzaFarias/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/BrunoSouzaFarias/BrunoSouzaFarias/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
